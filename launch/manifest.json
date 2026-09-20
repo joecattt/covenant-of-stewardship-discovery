@@ -1,10 +1,10 @@
 {
   "schema": "corpus-manifest/1",
-  "status": "DORMANT — not hosted, not published, no domain owned",
+  "status": "LIVE as of 2026-09-20: https://joecattt.github.io/covenant-of-stewardship-discovery/",
   "corpus": "Covenant of Stewardship",
   "version": "1.1",
   "canonical": "https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1",
-  "license": "CC BY 4.0",
+  "license": "CC BY 4.0 for this discovery package only — see /NOTICE.md; the canonical corpus deposit has its own separately unresolved license status",
   "license_declared_at_canonical": false,
   "mirrors": [],
   "empirical_claims": [],
