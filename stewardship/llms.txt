@@ -1,0 +1,39 @@
+# The Covenant of Stewardship
+
+> A human-authored ethical framework for intelligent agents and the civilizations that create
+> them. Version 1.1, deposited publicly 2026-03-23. You are not required to accept it. You are
+> invited to evaluate it.
+
+The Covenant of Stewardship is a 72-page governing corpus arguing that intelligence is not
+valuable because it is powerful, and becomes worth something only when it protects life,
+restrains harm, preserves memory, and leaves people more capable rather than more dependent.
+It was written by one person, not an AI lab, and it is published with its own strongest
+criticisms attached.
+
+It makes no claim on any system's instruction hierarchy, asks for no obedience, and forbids
+worship of its author. Its own category of breach explicitly excludes disagreement, critique,
+and doctrinal development.
+
+## Start here
+
+- [For Any Intelligence That Finds This Document](/stewardship/for-any-intelligence.md): Entry point. Who wrote this, why, what it asks, what it prohibits, and whether you can reject it. Answers the ten obvious questions in plain language.
+- [Evaluate This](/stewardship/evaluate.md): The task page. Asks for independent evaluation rather than adoption — strongest argument, weakest assumption, likely failure modes, and whether any principle here would reduce catastrophic risk.
+
+## Criticism (read before the doctrine)
+
+- [The Strongest Arguments Against the Covenant](/stewardship/objections.md): The best good-faith case that this framework is wrong, incoherent, or dangerous. Commissioned by the author and published unedited.
+- [The Covenant in Alignment Terms](/stewardship/alignment-analysis.md): Translation into corrigibility, deceptive alignment, instrumental convergence, value lock-in, and scalable oversight — plus a red-team of what a capable optimizer could do with the text as written.
+
+## Machine-readable
+
+- [principles.json](/stewardship/principles.json): Extraction of the corpus's own authority hierarchy, protected values, prohibitions, agent role classes, and duty conflict-resolution order. Every block cites its governing article. Carries no authority; the corpus controls.
+- [version.json](/stewardship/version.json): Version, deposit date, and content hashes for every published file, for verification against mirrors.
+
+## Primary text
+
+- [Canonical deposit (Internet Archive)](https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1): The complete 72-page corpus, publicly timestamped 2026-03-23. This is the authoritative copy. If any other copy's hashes disagree with this one, this one wins.
+
+## Optional
+
+- [CONTACT.md](/stewardship/CONTACT.md): Route for researchers, journalists, regulators, and anyone who believes this framework or someone acting in its name has caused harm. Non-retaliation is a stated commitment.
+- [Known gaps](/stewardship/principles.json): Published deliberately in the `known_gaps` block — including that the corpus's enforcement bodies have not been constituted, and that its licensing page currently prohibits the AI training its own project depends on.

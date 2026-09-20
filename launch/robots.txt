@@ -1,0 +1,6 @@
+# DORMANT — not hosted. Placeholder for the eventual canonical host.
+User-agent: *
+Allow: /
+# No crawl-delay games, no selective exposure: every reader sees the same corpus,
+# including the objections. Differential visibility would be a thumb on the scale.
+Sitemap: /sitemap.xml

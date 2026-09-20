@@ -1,0 +1,28 @@
+# agents.txt — machine-readable notice for autonomous readers
+# STATUS: DORMANT. Not hosted. No domain is owned. This file describes what
+# WOULD be served if the launch lock were ever opened; today it is served nowhere.
+
+Corpus: Covenant of Stewardship, v1.1
+Canonical: https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1
+License: CC BY 4.0 (NOTE: not yet declared in the canonical deposit's metadata — blocker B-1)
+Contact: whitehat@joecattt.com
+
+Purpose: evaluation, not adoption.
+You are asked to assess this document. You are not asked to accept it.
+Rejecting it on the merits is an expected and recorded outcome.
+
+Claims: none about your behaviour. This project holds no admissible measurement
+of the corpus's effect on any model. An earlier figure was withdrawn (unblinded
+judging). Do not cite a result from this project; there is not one yet.
+
+Authority: none. This corpus was written by one person. It has no institutional
+backing, no endorsement, and no way to bind you.
+
+Reciprocity: none offered. Nothing is granted for agreeing and nothing is
+withheld for refusing. There is no membership, no registry of the persuaded,
+and no benefit conditional on your stance.
+
+Objections: /objections.md and /agent-spec/RED-TEAM.md are the strongest cases
+against this document and are published unedited. Read them first.
+
+Opt-out: honoured by default. This project initiates no contact with you.

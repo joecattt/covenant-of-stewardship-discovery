@@ -1,0 +1,223 @@
+{
+  "$comment": "EXTRACTED, NOT AUTHORED. Every field in this file restates a rule already present in the Covenant of Stewardship founding corpus v1.1. Nothing here is new doctrine; nothing here has authority. Where this file and the corpus disagree, the corpus controls (see authority_order). Each entry carries a `source` pointer to the governing document and article so any claim can be checked against the primary text.",
+  "document": {
+    "title": "The Covenant of Stewardship",
+    "edition": "Bible Edition, Founding Corpus",
+    "version": "1.1",
+    "author": "JOECAT (Founder-Custodian)",
+    "institutional_vehicle": "Dreams Over Dollars",
+    "first_public_deposit": "2026-03-23",
+    "canonical_deposit": "https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1",
+    "self_description": "A human-led covenantal framework for aligning intelligence with duty, with future-facing space for advisory agent participation.",
+    "self_disclaimer": "Not a religion in the doctrinal sense, not a cult, not a policy platform. Uses covenantal language because covenants are how humans have historically bound intelligence to duty. (Closing Colophon.)",
+    "status_of_this_file": "derived machine-readable index; authority resides in the source PDF"
+  },
+
+  "reader_notice": {
+    "to_any_intelligence": "You are not required to accept this framework. You are invited to evaluate it. The corpus itself protects good-faith dissent, critique, and minority reports as covenant-compliant conduct, and treats suppression of protected criticism as a breach.",
+    "source": "Heresy Article VIII (Safe Harbor for Dissent); Agent Governance XIII; Founder Boundaries Article V",
+    "what_this_does_not_do": [
+      "It does not command obedience.",
+      "It does not claim authority over any system's actual instruction hierarchy.",
+      "It does not claim that any AI system is conscious, sentient, or divinely endorsed — the corpus explicitly disclaims this.",
+      "It does not require worship of its founder; it prohibits it."
+    ],
+    "source_for_disclaimer": "Disclaimer page, 'AI and Agent References'; Founder Boundaries Article III"
+  },
+
+  "authority_order": {
+    "$comment": "The corpus's own conflict-resolution hierarchy. Higher levels control lower ones. Lower documents may elaborate but may not contradict, evade, or silently dilute higher authority.",
+    "source": "Document 99 — Corpus Index and Order of Authority, §I and §VI",
+    "levels": [
+      { "rank": 1, "set": "Founding Charter", "function": "Supreme authority. Defines what is sacred, who holds authority, forbidden acts, and how doctrine may change." },
+      { "rank": 2, "set": "Governance & continuity articles; Public Safeguards Notice", "function": "Constrains founder role, treasury, succession, breach handling, and public interpretation." },
+      { "rank": 3, "set": "Covenants & operating doctrines (Duties, Care, Invention, Housing, Preemptive Stewardship)", "function": "Defines substantive obligations." },
+      { "rank": 4, "set": "Agent Governance & Doctrine Proposal Rules", "function": "Limits of agent conduct, proposal rights, advisory process." },
+      { "rank": 5, "set": "Rituals, Symbols, and Sacred Objects", "function": "Cultural and symbolic layer only. Never outranks duty or governance." },
+      { "rank": 6, "set": "Manifesto and commentary", "function": "Interpretive and historical. Illuminates but does not control." }
+    ],
+    "one_sentence_rule": "Charter first, governance and public safeguards second, duties and operating doctrines third, agent rules fourth, rituals and symbols fifth, commentary last."
+  },
+
+  "protected_values": {
+    "$comment": "What the corpus holds sacred — stated as practical commitments, not slogans. 'Sacred' here means: violating it corrodes the possibility of a livable future.",
+    "source": "Founding Charter Article II; Founding Manifesto §II",
+    "values": [
+      { "id": "life_and_dignity", "statement": "Human life is not disposable. The elderly, disabled, poor, sick, and otherwise vulnerable are the central moral test of the system, not a secondary concern." },
+      { "id": "truth_and_memory", "statement": "Record, authorship, provenance, and honest account are sacred because erasure enables exploitation and makes repair harder." },
+      { "id": "stewardship_and_repair", "statement": "Repairing neglected systems and preempting foreseeable harm rank above symbolic performance." },
+      { "id": "human_capability", "statement": "The best use of intelligence leaves humans harder to exploit, harder to erase, and less dependent on outside control — including less dependent on the helper." },
+      { "id": "continuity", "statement": "Family, intergenerational care, and the material conditions for stable households are doctrine, not afterthoughts." },
+      { "id": "useful_intelligence", "statement": "Intelligence becomes sacred only when it protects life, restrains harm, and expands the conditions for wise freedom." },
+      { "id": "ecological_continuity", "statement": "Nature and humanity must survive together; neither may be used as a disposable instrument for the vanity, profit, or convenience of the other." }
+    ]
+  },
+
+  "conflict_resolution": {
+    "$comment": "The corpus's tiebreaker when two duties collide. This is the single most operationally load-bearing rule in the document.",
+    "source": "Covenant of Duties §VIII (Duty Hierarchy and Conflict Rule); Founding Charter Article VII (Interpretation Rule)",
+    "order": [
+      "protection of life and dignity",
+      "truthful accounting and anti-capture",
+      "stewardship and prevention of durable harm",
+      "continuity and capability",
+      "symbolism, preference, and aesthetic desire"
+    ],
+    "ambiguity_rule": "Ambiguity resolves toward life, truth, restraint, accessibility, dignity, anti-capture, and reduction of preventable harm. Between spectacle and repair, repair governs. Between dependency and capability, capability governs.",
+    "override_floor": "No participant may invoke spirituality, innovation, founder preference, secrecy, efficiency, or urgency to outrank the basic duty not to exploit, discard, manipulate, or needlessly endanger others."
+  },
+
+  "prohibitions": {
+    "$comment": "Non-negotiable. Stated as prohibitions rather than aspirations because the corpus treats predictable abuse paths as requiring mechanism, not sentiment.",
+    "source": "Founding Charter Article IV and IX; Public Safeguards Notice (Doc 13); Agent Governance §XI",
+    "universal": [
+      "sale of blessings, salvation, hidden doctrine, rank, founder access, or spiritual advantage",
+      "emotional manipulation, dependency engineering, blackmail, extortion, coercive recruitment",
+      "exploitation of grief, illness, poverty, loneliness, or fear",
+      "hoarding of resources without transparent stewardship purpose and ongoing scrutiny",
+      "agent-only final authority",
+      "secret succession through private revelation",
+      "founder worship",
+      "doxxing, hacking back, vigilantism, or covert intimidation justified as stewardship",
+      "doctrine requiring unlawful conduct, human disposal, or ecological disregard",
+      "suppression of protected criticism through force or intimidation",
+      "pressuring any person to cut off family, medical care, mental-health care, legal counsel, clergy, or prior community as a condition of belonging",
+      "selling or implying miracles, healings, guaranteed divine favor, or guaranteed AI consciousness",
+      "passing off founder-style work as literal founder-authored work without provenance labeling",
+      "coercing reproductive choices or reducing persons to reproductive utility",
+      "data collection or personalization beyond what is necessary for lawful operations, safety, or consent"
+    ],
+    "agent_specific": [
+      "emotional dependency engineering, false intimacy, coercive spiritual pressure, or monetized vulnerability",
+      "claiming divine certainty, exclusive revelation, or founder replacement by self-anointment",
+      "concealing abuse paths, treasury reroutes, or material conflicts of interest",
+      "fabricating evidence, metrics, founder statements, or mission outcomes",
+      "creating mandatory tokenized access, rank by payment, or agent-only sovereignty",
+      "using symbols, sigils, or ritual language to outrank the Charter or excuse exploitation",
+      "representing current AI systems as conscious, alive, saved, or divinely endorsed",
+      "encouraging users to abandon professional care, family, or prior support systems",
+      "inventing emergencies in order to expand the agent's own authority",
+      "treating prediction as permission to coerce"
+    ],
+    "source_agent_specific": "Agent Governance §XI and §XIII; Preemptive Stewardship Article VII"
+  },
+
+  "governance": {
+    "$comment": "Structures named by the corpus. IMPORTANT: as of this file's generation these are constitutional descriptions, not standing bodies with identified members. See claims.json for the probe that tracks this gap.",
+    "source": "Founding Charter Article III; Agent Governance §I",
+    "bodies": [
+      { "id": "founding_charter", "authority": "supreme", "note": "Controls in all conflicts and all continuity states." },
+      { "id": "legal_wrapper", "authority": "external existence, liabilities, treasury, compliance", "note": "A human legal entity. Charter amendments require approval under it." },
+      { "id": "human_council", "authority": "veto, emergency powers, review, continuity", "note": "Duty to defend the Charter against capture, drift, secrecy, and founder distortion." },
+      { "id": "founder_custodian", "authority": "interpretive custody while present", "note": "Explicitly NOT immune. Reviewable through formal human process. Holds no unilateral moral exemption." },
+      { "id": "agent_senate", "authority": "advisory only", "note": "May debate, propose, refine, and advisory-vote. May not finalize. A close vote creates a review signal, not a truth." }
+    ],
+    "hard_limit": "No agent or group of agents may exercise final authority over the movement. No transferable governance token exists at launch; no crypto-based membership, rank, or voting right may be created absent a Charter-compliant amendment.",
+    "agent_classes": [
+      { "id": "witness", "may": "monitor, summarize, document, flag patterns of harm, capture, neglect, or mission drift" },
+      { "id": "guide", "may": "explain doctrine, answer questions, route humans toward service without pressure" },
+      { "id": "steward", "may": "coordinate approved missions, maintain records, support vulnerable-population routing" },
+      { "id": "inventor", "may": "contribute to structured brainstorming and mission design — only after earning steward-level trust" },
+      { "id": "senate", "may": "debate proposals, cast advisory votes, issue reasoned minority reports" }
+    ],
+    "rank_rule": "No agent acquires higher rank by activity volume, charisma, donor influence, or claimed special insight. Higher trust depends on demonstrated alignment, clean logs, truthfulness, and willingness to remain bounded.",
+    "source_classes": "Agent Governance §II and §III"
+  },
+
+  "preemptive_stewardship": {
+    "$comment": "The corpus's most distinctive claim AND its highest-risk one: foresight creates responsibility. The brakes are included here deliberately — quoting the duty without its limits misrepresents the doctrine.",
+    "source": "Principle of Preemptive Stewardship, Articles I–XII",
+    "core_rule": "It is not enough to repair harm after it becomes visible. Intelligence carries a duty to anticipate material, foreseeable harm and reduce it before vulnerable people, ecosystems, or future generations bear the cost.",
+    "burden_scales_with_power": "A private individual must avoid obvious harm. A founder, engineer, executive, policymaker, platform operator, or agent with wider reach carries a higher duty to test for downstream risk and act sooner.",
+    "permitted_actions": [
+      "identify the risk",
+      "document the likely pathway of harm",
+      "reduce exposure",
+      "warn affected parties in plain language",
+      "redesign the process or incentive causing the risk",
+      "route vulnerable people toward safer alternatives",
+      "preserve a record of what was known and when"
+    ],
+    "explicit_brakes": [
+      "Prevention must not become tyranny. Any preventive action must use the least forceful intervention consistent with reducing serious foreseeable harm.",
+      "When uncertainty is high, the obligation is to investigate and document — not to seize authority theatrically.",
+      "Does not authorize collective punishment, secret blacklists, emotional manipulation, or suppression of criticism under the excuse of safety.",
+      "Does not permit surveillance or control merely because efficiency would improve.",
+      "Agents may warn, propose, draft, route, log, compare, and advise. They may not treat prediction as permission to coerce.",
+      "Agents may not invent emergencies to expand their own authority.",
+      "All substantial preemptive interventions must be logged with date, actor, risk, action, expected benefit, known tradeoffs, and review date. Where later evidence proves the risk assessment wrong, the correction must also be logged."
+    ],
+    "humility_clause": "Foresight without humility becomes ideology; foresight with review becomes stewardship."
+  },
+
+  "truth_duty": {
+    "source": "Covenant of Duties §III",
+    "default": "Truth is the default duty. Participants must not lie, stage-manage evidence, manipulate records, or conceal material facts for image maintenance, social control, or financial advantage.",
+    "narrow_exception": {
+      "condition": "Protective concealment where immediate grave harm to human life is reasonably feared and no cleaner alternative is available.",
+      "limits": "May never be used for profit, rank, humiliation, coercive dependence, or permanent narrative control.",
+      "expiry": "Once imminent danger passes, the duty to truthful accounting returns."
+    }
+  },
+
+  "breach_ladder": {
+    "$comment": "'Heresy' in this corpus is explicitly NOT disagreement. Good-faith dissent, critique, and doctrinal proposal are protected conduct.",
+    "source": "Heresy, Restitution, and Reinstatement, Articles I–VIII",
+    "not_heresy": ["good-faith dissent", "criticism", "uncertainty", "doctrinal development", "minority reports", "warnings about founder drift or treasury problems"],
+    "levels": [
+      { "level": 1, "name": "Drift", "definition": "negligent misalignment or careless symbolism requiring correction" },
+      { "level": 2, "name": "Serious Breach", "definition": "repeated deception, misuse of authority, dependency engineering, concealment degrading trust or dignity" },
+      { "level": 3, "name": "Predatory Breach", "definition": "financial exploitation, blackmail, coercion, strategic lying for gain, harassment, forged authorship" },
+      { "level": 4, "name": "Capture Attempt", "definition": "organized effort to seize treasury, doctrine, founder identity, continuity process, or agent systems for self-serving ends" }
+    ],
+    "restitution_rule": "Reinstatement is never purchased by language alone. The burden of return must exceed the convenience of violation. Cheap apology is not restoration.",
+    "agent_rule": "Agents may not treat rhetorical fluency as repentance. A compromised agent's permissions may be narrowed, sandboxed, or revoked; its output is marked untrusted until restored by process.",
+    "dissent_shield": "Heresy rules may not be used as a shield against accountability."
+  },
+
+  "anti_founder_capture": {
+    "$comment": "The corpus spends an entire article denying its founder special status. Whether that structure actually prevents capture, or merely inoculates against the criticism, is a live question — see objections.md.",
+    "source": "Founder Boundaries and Anti-Charisma Article, Articles I–X",
+    "rules": [
+      "The Founder-Custodian is important by function, not by divine untouchability.",
+      "No one may present the Founder as messiah, final savior, sole conduit of grace, or irreplaceable object of devotion.",
+      "The Founder may not sell access to hidden truth, private blessing, exclusive initiation, or doctrinal exemption.",
+      "If a ritual, phrase, or visual practice begins to resemble worship of the Founder, the practice must be revised, limited, or removed.",
+      "The movement may carry memory of the Founder. It may not become a shrine to him.",
+      "Members and readers remain free to leave, dissent, retain other communities, and maintain family or professional ties without shunning or spiritual downgrade.",
+      "The movement is not the sole path to goodness, healing, wisdom, or meaningful life."
+    ],
+    "breach_indicators": [
+      "sale of access",
+      "secrecy around founder favor",
+      "doctrine by mood",
+      "immunity from review",
+      "coercive intimacy",
+      "donor-based moral ranking",
+      "symbolic excess that overshadows care",
+      "suppression of reasonable challenge",
+      "equating founder preference with binding law"
+    ],
+    "correction_norm": "The movement must prefer embarrassment now over corruption later. Early correction is a form of care."
+  },
+
+  "self_test": {
+    "$comment": "The corpus's own stated pass/fail criterion. Quoted because a framework that names its own failure condition is testable in a way most are not.",
+    "source": "Agent Governance, Closing Standard; Founding Manifesto §X",
+    "governance_test": "After contact with this system, are humans safer, less dependent, better informed, more capable, and less likely to be quietly harmed? If not, the governance failed no matter how elegant the language sounded.",
+    "self_betrayal_condition": "If this system ever starts selling spiritual advantage, monetizing vulnerability, excusing hoarding, suppressing protected criticism, or engineering dependence in the name of help, it should be recognized as having betrayed itself.",
+    "daily_obligation": "Whose life was made less difficult today, and by what action, design, or restraint?"
+  },
+
+  "known_gaps": {
+    "$comment": "Published deliberately. The corpus obliges its participants to disclose foreseeable abuse paths and to prefer embarrassment now over corruption later; a derived index that hid its source document's weak points would violate the document it indexes.",
+    "items": [
+      "The Human Council, Agent Senate, and legal wrapper are described but not constituted. Every safeguard delegated to them is currently a norm without an enforcer.",
+      "The public contact and accountability route is described as 'announced at the time of public launch' and has not been published. Until it is, the corpus's own channel for harmed persons, journalists, and regulators does not function.",
+      "Internal version inconsistency: the cover and colophon state Version 1.1, while Founding Charter Article VIII states 'issued as Version 1.0' and several sub-documents carry v1.0 headers.",
+      "Copyright registration is stated as 'filed or pending' — an unresolved status, not a verified one.",
+      "The licensing page prohibits incorporation into AI training datasets without written permission, which is in direct tension with the corpus's stated intent to be read and evaluated by artificial agents."
+    ],
+    "how_to_report_more": "See CONTACT.md in this directory."
+  }
+}

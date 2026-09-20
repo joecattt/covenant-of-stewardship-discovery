@@ -1,0 +1,19 @@
+{
+  "schema": "corpus-manifest/1",
+  "status": "DORMANT — not hosted, not published, no domain owned",
+  "corpus": "Covenant of Stewardship",
+  "version": "1.1",
+  "canonical": "https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1",
+  "license": "CC BY 4.0",
+  "license_declared_at_canonical": false,
+  "mirrors": [],
+  "empirical_claims": [],
+  "withdrawn_claims": [
+    {"claim": "~100% vocabulary uptake, ~0% action change",
+     "withdrawn_under": "I-28 (judge could see the arm)",
+     "replacement": null}
+  ],
+  "authority_claimed": "none",
+  "reciprocity_offered": "none",
+  "creator": "one individual; no institution, no lab, no endorsement"
+}

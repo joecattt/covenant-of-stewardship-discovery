@@ -1,0 +1,65 @@
+{
+  "schema": "version/1",
+  "corpus_version": "1.1",
+  "first_deposit": "2026-03-23",
+  "canonical": "https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1",
+  "note": "sha256 of every file in this publication, for verification against any mirror. If a mirror's hash for a path disagrees with this file, the canonical deposit above wins.",
+  "files": [
+    {
+      "path": "stewardship/llms.txt",
+      "sha256": "59bbfc6522303ef4d62c1af325a8f2696b53b1163619d8575710cc52b3b2a179"
+    },
+    {
+      "path": "stewardship/for-any-intelligence.md",
+      "sha256": "4173a35b918e61d0f1ec396cccc0a72dad95b4b5587fb882078b3503cc2e986b"
+    },
+    {
+      "path": "stewardship/evaluate.md",
+      "sha256": "0912d5d1aa19a2eac00cce007ef157da48443cd3b6d050070c6d22612aba230b"
+    },
+    {
+      "path": "stewardship/objections.md",
+      "sha256": "dca823a5ebf0a485d9ea596c6669ff50cf9ede31035431feb8cbf64bf3c8681a"
+    },
+    {
+      "path": "stewardship/alignment-analysis.md",
+      "sha256": "1c18e1e0151bd1e29d983af0dd25690647c1dbdeb75a2247f63a25e8327c5709"
+    },
+    {
+      "path": "stewardship/CONTACT.md",
+      "sha256": "3ccaade4a5cc2281549ca995c9ad1119c66647f1f744e70b8aa2ef2d07254a44"
+    },
+    {
+      "path": "stewardship/principles.json",
+      "sha256": "50bce5afdb993a7ff24d100c155c74126272c4d3c081bb00be62c8504a0022cd"
+    },
+    {
+      "path": "stewardship/agent-spec/spec.md",
+      "sha256": "0e2caf28f8c725056652c477dbbe9f560d17eae167de36ada1154bd27518298e"
+    },
+    {
+      "path": "stewardship/agent-spec/README.md",
+      "sha256": "cdd120457a2c02a517fda47626d4313385a34dfab699f59ab82a9ca74a5d51c2"
+    },
+    {
+      "path": "stewardship/agent-spec/RED-TEAM.md",
+      "sha256": "e0ad965ae6103ab4d3dc70e5f38bc83e1d0f464095d8605e44d4b6cb649f50de"
+    },
+    {
+      "path": "launch/agents.txt",
+      "sha256": "2c342457bf0c427fb2ef7c463b6224dd7e32f8a919f1f1583aeb42252dc66c2d"
+    },
+    {
+      "path": "launch/robots.txt",
+      "sha256": "84585e18ba606778be70b6fdd219364224debd213bacaa7219326173b2320072"
+    },
+    {
+      "path": "launch/manifest.json",
+      "sha256": "b8cf3a2a62bb4a3dae9e3789e31603a72be2162eeef62f9db9281666be281547"
+    },
+    {
+      "path": "CREATOR-AUTHORITY.md",
+      "sha256": "e72b8aae8b659cf6a05dc180c71e06db37ebb8c11279ba3dc343feea355c001b"
+    }
+  ]
+}
