@@ -27,11 +27,11 @@ outcomes is preferred over another by design — see `stewardship/evaluate.md` a
 
 ## License
 
-This repository's contents are licensed under **Creative Commons Attribution 4.0
-International (CC BY 4.0)** — see [`LICENSE`](LICENSE). This is a separate decision from
-the founding corpus's own license terms as printed in its original edition; see
-`stewardship/objections.md` and `CREATOR-AUTHORITY.md` for what is and is not claimed
-about authority over the corpus itself.
+The 15 files in this repository are licensed under **Creative Commons Attribution 4.0
+International (CC BY 4.0)** — see [`LICENSE`](LICENSE). This does **not** extend to the
+founding corpus text itself, to any trademarks referenced within these files, or to
+the private research project this package describes. See [`NOTICE.md`](NOTICE.md) for
+the exact scope.
 
 ## Contact
 
