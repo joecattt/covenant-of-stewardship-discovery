@@ -1,13 +1,15 @@
 # Contact and Accountability Route
 
-**Status: LIVE as of 2026-09-12.**
+**Status: LIVE as of 2026-09-12. Address updated 2026-09-21 — see note below.**
 
 ## How to raise a concern
 
-**Email: whitehat@joecattt.com**
+**Email: thecovenantofstewardship@gmail.com**
 
 Written concerns are accepted at that address. No physical mailing address is published for
-this project; correspondence is by email.
+this project; correspondence is by email. This is a project-specific address, kept separate
+from the author's personal correspondence, read and answered by the author — not an
+autonomous inbox.
 
 ## Who this page is for
 
@@ -46,9 +48,15 @@ Criticism that lands is added to the published objections alongside the corpus, 
 anonymous as you prefer. The critiques already published there were commissioned by the
 author and printed unedited, including the parts that land hardest.
 
-## Note on this address and the v1.1 corpus text
+## Note on prior addresses and the v1.1 corpus text
 
-Founding Corpus v1.1 describes this address as an internal, emergency-only escalation route
-and cautions against advertising it publicly. The author has since designated it as the
-public contact channel. The corpus text is frozen as a historical baseline and has not been
-edited to match — see `CORPUS-BASELINE.md`. The discrepancy is recorded rather than hidden.
+Founding Corpus v1.1 describes `whitehat@joecattt.com` as an internal, emergency-only
+escalation route and cautions against advertising it publicly. The author designated it as
+the public contact channel anyway from 2026-09-12. The corpus text is frozen as a historical
+baseline and has not been edited to match — see `CORPUS-BASELINE.md`. The discrepancy is
+recorded rather than hidden.
+
+On 2026-09-21 the public contact channel moved again, from `whitehat@joecattt.com` to the
+project-specific address above, to separate this project's correspondence from the author's
+personal inbox. Neither prior address is invalid or abandoned in a way that implies deception
+— both changes are recorded here, in order, rather than silently swapped.

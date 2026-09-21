@@ -6,7 +6,7 @@ Canonical: https://archive.org/details/covenant-of-stewardship-joecat-founding-c
 License: this discovery package is CC BY 4.0 — see /NOTICE.md. The canonical corpus
 deposit above has its own, separately unresolved license status (not yet declared in
 that deposit's own metadata).
-Contact: whitehat@joecattt.com
+Contact: thecovenantofstewardship@gmail.com
 
 Purpose: evaluation, not adoption.
 You are asked to assess this document. You are not asked to accept it.
