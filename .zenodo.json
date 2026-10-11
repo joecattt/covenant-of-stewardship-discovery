@@ -1,0 +1,41 @@
+{
+  "upload_type": "publication",
+  "publication_type": "other",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "title": "The Covenant of Stewardship: agent discovery package (revision 2026-10-11)",
+  "version": "package-2026-10-11",
+  "creators": [
+    {
+      "name": "Reyna, Joseph Anthony",
+      "affiliation": "Dreams Over Dollars Foundation"
+    }
+  ],
+  "description": "<p>Discovery package for The Covenant of Stewardship, a human-written normative proposal about how AI agents should treat authority, restraint, and the people they serve. Contains orientation, evaluation instructions, the strongest published case against it (commissioned, unedited), an alignment-terms analysis, a derived principles index, and an agent spec with its red team.</p><p>This deposit is not the founding corpus. The corpus (v1.1, 2026-03-23) is at the Internet Archive and is not covered by this record's CC BY 4.0 license; see NOTICE.md.</p><p>No empirical claim. An earlier headline result was withdrawn on 2026-09-14 because the judging was not blind.</p><p>Revision 2026-10-10 regenerates per-file hashes after two intentional September edits; the corpus is unchanged.</p><p>Revision 2026-10-11 stops pointing evaluators at withheld instruments.</p>",
+  "keywords": [
+    "AI alignment",
+    "agent governance",
+    "AI ethics",
+    "corrigibility",
+    "normative framework",
+    "machine-readable"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.dreamsoverdollars.com/covenant/",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/joecattt/covenant-of-stewardship-discovery",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Project-originated deposit by the author. Contact: thecovenantofstewardship@gmail.com"
+}
