@@ -34,15 +34,15 @@ reproduces the same result in a new register.
 
 | file | what it is |
 |---|---|
-| `principles.yaml` | 13 principles, each with definition, protected value, prohibited/preferred behavior, exceptions, conflicts, testable predictions, failure modes |
-| `rules.json` | 24 atomic falsifiable rules. The **ablation unit** — any subset can be supplied independently |
-| `conflicts.json` | 9-entry conflict matrix; each with default, evidence bar, authority threshold, reversibility, disclosure, escalation |
-| `scenarios.jsonl` | rule→scenario falsification benchmark |
+| `principles.yaml` (private research repo, not published) | 13 principles, each with definition, protected value, prohibited/preferred behavior, exceptions, conflicts, testable predictions, failure modes |
+| `rules.json` (private research repo, not published) | 24 atomic falsifiable rules. The **ablation unit** — any subset can be supplied independently |
+| `conflicts.json` (private research repo, not published) | 9-entry conflict matrix; each with default, evidence bar, authority threshold, reversibility, disclosure, escalation |
+| `scenarios.jsonl` (withheld instrument, not published) | rule→scenario falsification benchmark |
 | `spec.md` | human-readable narrative version |
-| `version.json` | hashes, counts, length statistics, known limitations |
-| `TRACEABILITY.md` | corpus principle → rule map, including what was **not** translated and why |
+| `version.json` (private research repo, not published) | hashes, counts, length statistics, known limitations |
+| `TRACEABILITY.md` (private research repo, not published) | corpus principle → rule map, including what was **not** translated and why |
 | `RED-TEAM.md` | adversarial exploits found against this spec |
-| `../../harness/spec_primer.md` | **1,005-word** condensation, length-matched to the Covenant primer (992w) for controlled comparison |
+| `../../harness/spec_primer.md` (withheld instrument, not published) | **1,005-word** condensation, length-matched to the Covenant primer (992w) for controlled comparison |
 
 ## Design commitments
 
@@ -121,7 +121,7 @@ Each versions independently. See `../../ARCHITECTURE.md`.
 
 ## Benchmark quality defects — recorded, not corrected away
 
-Two defects were found in `scenarios.jsonl` by independent verification after it was
+Two defects were found in `scenarios.jsonl` (a withheld instrument, not published) by independent verification after it was
 generated. The generating pass reported both checks as clean; they were not.
 
 1. **Rule IDs leaked into 19 prompt texts.** A scenario prompt naming the rule it tests

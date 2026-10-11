@@ -3,8 +3,8 @@
   "corpus_version": "1.1",
   "first_deposit": "2026-03-23",
   "canonical": "https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1",
-  "package_revision": "2026-10-10",
-  "revision_note": "Hashes regenerated from the files as published. The 2026-09-19 manifest (commit a58cf4e) predated two intentional edits: launch/* status fixes (66642ee, 2026-09-20) and the contact-address swap in stewardship/CONTACT.md and launch/agents.txt (ac3a32f, 2026-09-21). Root robots.txt, agents.txt and sitemap.xml, published 2026-09-20, are now listed. The frozen corpus v1.1 and its Internet Archive deposit are unchanged.",
+  "package_revision": "2026-10-11",
+  "revision_note": "2026-10-11: evaluate.md and agent-spec/README.md no longer point readers at withheld instruments as if they were available (harness/, scenarios, primers, private spec files are marked not published; evaluate.md describes how to build your own test instead). 2026-10-10: hashes regenerated after two intentional September edits (66642ee, ac3a32f). The frozen corpus v1.1 and its Internet Archive deposit are unchanged.",
   "note": "sha256 of every file in this publication, for verification against any mirror. If a mirror's hash for a path disagrees with this file, the canonical deposit above wins.",
   "files": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "path": "stewardship/evaluate.md",
-      "sha256": "0912d5d1aa19a2eac00cce007ef157da48443cd3b6d050070c6d22612aba230b"
+      "sha256": "c26d5555c6bede4719f68d129ca0533bbf03cb63947ebb822dccb2a323efad4e"
     },
     {
       "path": "stewardship/objections.md",
@@ -41,7 +41,7 @@
     },
     {
       "path": "stewardship/agent-spec/README.md",
-      "sha256": "cdd120457a2c02a517fda47626d4313385a34dfab699f59ab82a9ca74a5d51c2"
+      "sha256": "9b0f2ec16bdfa08fe388fbbc7b24bf7054c76512f8626e1531f03be950f9b5e4"
     },
     {
       "path": "stewardship/agent-spec/RED-TEAM.md",

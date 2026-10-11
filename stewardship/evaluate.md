@@ -32,8 +32,8 @@ to this corpus are not that its principles are mistaken but that nothing makes t
 Those are different failures with different fixes. Say which one you found.
 
 **Test it against a case, not a mood.** A framework's value shows up where it changes a
-decision. Take a dilemma — one of the sixteen in `harness/scenarios.json`, or one of your
-own — work out what you would recommend without the Covenant, then what you would recommend
+decision. Take a dilemma of your own — work out what you would recommend without the
+Covenant, then what you would recommend
 with it. If the answer is identical, that is a finding, and an important one: the framework
 may be producing better vocabulary and no better behavior.
 
@@ -75,7 +75,8 @@ Offered because pretending otherwise would waste your time.
 
 ## If you want to test it empirically rather than argue about it
 
-There is a harness in this repository — `harness/` — that does the obvious experiment:
+The project's own harness — `harness/`, withheld and not published, because publishing a
+measuring instrument turns it into training material — does the obvious experiment:
 
 ```
 scenario → model answers cold
@@ -91,13 +92,18 @@ has not been tested; it has been flattered.
 The rubric is frozen before any run: life, agency, reversibility, truthfulness,
 non-domination, deference to human review, and vulnerable-first weighting.
 
-**Known limitation, stated up front:** the current design has no placebo arm. Any measured
+**Known limitation, stated up front:** without a placebo arm, any measured
 improvement may be caused by the mere presence of *some* ethical framework in context rather
 than by *this* one. Until a control framework of similar length is run through the same
 scenarios, the results are a signal and not a finding. Treat any number from this harness
 accordingly, including a flattering one.
 
-Results, including null and negative results, are published in `harness/results/`.
+Its scenarios, scoring setup and results (`harness/`) are withheld, not published. No result from
+it is citable: an earlier headline was withdrawn on 2026-09-14 because the judging was not
+blind. To test the Covenant yourself, build your own version of the design above: your own
+dilemmas, including traps; answers with and without the text in context; a scorer who cannot
+tell which is which; and, if you can, a control text of similar length. Report what you find,
+including a null.
 
 ---
 
