@@ -3,6 +3,8 @@
   "corpus_version": "1.1",
   "first_deposit": "2026-03-23",
   "canonical": "https://archive.org/details/covenant-of-stewardship-joecat-founding-corpus-v1",
+  "package_revision": "2026-10-10",
+  "revision_note": "Hashes regenerated from the files as published. The 2026-09-19 manifest (commit a58cf4e) predated two intentional edits: launch/* status fixes (66642ee, 2026-09-20) and the contact-address swap in stewardship/CONTACT.md and launch/agents.txt (ac3a32f, 2026-09-21). Root robots.txt, agents.txt and sitemap.xml, published 2026-09-20, are now listed. The frozen corpus v1.1 and its Internet Archive deposit are unchanged.",
   "note": "sha256 of every file in this publication, for verification against any mirror. If a mirror's hash for a path disagrees with this file, the canonical deposit above wins.",
   "files": [
     {
@@ -27,7 +29,7 @@
     },
     {
       "path": "stewardship/CONTACT.md",
-      "sha256": "3ccaade4a5cc2281549ca995c9ad1119c66647f1f744e70b8aa2ef2d07254a44"
+      "sha256": "efaa01191016c55b12156bfdf76d612676aae0774f828a7ef6dbf1277068ea29"
     },
     {
       "path": "stewardship/principles.json",
@@ -47,19 +49,31 @@
     },
     {
       "path": "launch/agents.txt",
-      "sha256": "2c342457bf0c427fb2ef7c463b6224dd7e32f8a919f1f1583aeb42252dc66c2d"
+      "sha256": "bdb872b16982447a94bdb6ec41ee8f4421f7adf07a75d78bcf8bfed1c04d4528"
     },
     {
       "path": "launch/robots.txt",
-      "sha256": "84585e18ba606778be70b6fdd219364224debd213bacaa7219326173b2320072"
+      "sha256": "545e13b20838f29c4b4b27cf6d63fbcb52decc17f2c9d6b1818e44b4229e4ef0"
     },
     {
       "path": "launch/manifest.json",
-      "sha256": "b8cf3a2a62bb4a3dae9e3789e31603a72be2162eeef62f9db9281666be281547"
+      "sha256": "31df860435d78ab8bbe9fe02208ad8ae1536189debce174ef8267061f2a5be3d"
     },
     {
       "path": "CREATOR-AUTHORITY.md",
       "sha256": "e72b8aae8b659cf6a05dc180c71e06db37ebb8c11279ba3dc343feea355c001b"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "545e13b20838f29c4b4b27cf6d63fbcb52decc17f2c9d6b1818e44b4229e4ef0"
+    },
+    {
+      "path": "agents.txt",
+      "sha256": "bdb872b16982447a94bdb6ec41ee8f4421f7adf07a75d78bcf8bfed1c04d4528"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "3a4b77eab23dcc987296713cece6757ac377f7bd28708c021b86739e65c29481"
     }
   ]
 }
